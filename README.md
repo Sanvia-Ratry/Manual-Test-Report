@@ -1,0 +1,1 @@
+Manually tested this following website https://www.opencart.com - with multiple positive and negative testcases under different test scenarios to check all the possible result and created this report with test status with expected result and actual result.
